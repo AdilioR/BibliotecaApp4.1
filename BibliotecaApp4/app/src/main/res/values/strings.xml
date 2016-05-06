@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BibliotecaApp4</string>
+    <string name="action_settings">Settings</string>
+    <string name="matricula">Matrícula</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="ic_action_search">Pesquisar</string>
+
+
+</resources>
